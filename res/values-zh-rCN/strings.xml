@@ -21,7 +21,7 @@
     <!-- Label for feature switch [CHAR LIMIT=30] -->
     <string name="switch_bar_off">关闭</string>
     <!-- Device specific settings -->
-    <string name="device_settings_app_name">高级设置</string>
+    <string name="device_settings_app_name">Dirac</string>
     <!-- Dirac settings -->
     <string name="dirac_title">音效增强</string>
     <string name="dirac_summary">优化音频质量</string>

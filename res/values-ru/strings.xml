@@ -21,7 +21,7 @@
     <!-- Label for feature switch [CHAR LIMIT=30] -->
     <string name="switch_bar_off">Выключить</string>
     <!-- Device specific settings -->
-    <string name="device_settings_app_name">Расширенные настройки</string>
+    <string name="device_settings_app_name">Dirac</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Улучшение звука</string>
     <string name="dirac_summary">Оптимизировать качество звука</string>

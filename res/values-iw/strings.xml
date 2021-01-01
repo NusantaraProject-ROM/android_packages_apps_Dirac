@@ -21,7 +21,7 @@
     <!-- Label for feature switch [CHAR LIMIT=30] -->
     <string name="switch_bar_off">כבוי</string>
     <!-- Device specific settings -->
-    <string name="device_settings_app_name">הגדרות מתקדמות</string>
+    <string name="device_settings_app_name">Dirac</string>
     <!-- Dirac settings -->
     <string name="dirac_title">מגבר צלילים Mi</string>
     <string name="dirac_summary">אופטימיזציה של איכות השמע</string>

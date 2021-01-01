@@ -21,7 +21,7 @@
     <!-- Label for feature switch [CHAR LIMIT=30] -->
     <string name="switch_bar_off">Disattivo</string>
     <!-- Device specific settings -->
-    <string name="device_settings_app_name">Impostazioni avanzate</string>
+    <string name="device_settings_app_name">Dirac</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Miglioramento suoni Dirac</string>
     <string name="dirac_summary">Ottimizza qualità audio</string>

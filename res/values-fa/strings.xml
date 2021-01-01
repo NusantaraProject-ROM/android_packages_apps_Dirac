@@ -21,7 +21,7 @@
     <!-- Label for feature switch [CHAR LIMIT=30] -->
     <string name="switch_bar_off">خاموش</string>
     <!-- Device specific settings -->
-    <string name="device_settings_app_name">تنظیمات پیشرفته</string>
+    <string name="device_settings_app_name">Dirac</string>
     <!-- Dirac settings -->
     <string name="dirac_title">تقویت‌کننده صدای Mi</string>
     <string name="dirac_summary">بهینه‌سازی کیفیت صدا</string>

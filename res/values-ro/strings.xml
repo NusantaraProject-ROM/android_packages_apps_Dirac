@@ -21,7 +21,7 @@
     <!-- Label for feature switch [CHAR LIMIT=30] -->
     <string name="switch_bar_off">Oprit</string>
     <!-- Device specific settings -->
-    <string name="device_settings_app_name">Setări avansate</string>
+    <string name="device_settings_app_name">Dirac</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Dirac sound enhancer</string>
     <string name="dirac_summary">Optimizare calitate audio</string>

@@ -21,7 +21,7 @@
     <!-- Label for feature switch [CHAR LIMIT=30] -->
     <string name="switch_bar_off">Aus</string>
     <!-- Device specific settings -->
-    <string name="device_settings_app_name">Erweiterte Einstellungen</string>
+    <string name="device_settings_app_name">Dirac</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Dirac Klangverstärker</string>
     <string name="dirac_summary">Tonqualität optimieren</string>

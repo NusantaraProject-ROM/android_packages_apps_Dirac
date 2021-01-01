@@ -21,7 +21,7 @@
     <!-- Label for feature switch [CHAR LIMIT=30] -->
     <string name="switch_bar_off">Wył.</string>
     <!-- Device specific settings -->
-    <string name="device_settings_app_name">Ustawienia zaawansowane</string>
+    <string name="device_settings_app_name">Dirac</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Ulepszenia dźwięku Dirac</string>
     <string name="dirac_summary">Optymalizuj jakość dźwięku</string>

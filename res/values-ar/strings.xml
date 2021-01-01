@@ -21,7 +21,7 @@
     <!-- Label for feature switch [CHAR LIMIT=30] -->
     <string name="switch_bar_off">إيقاف</string>
     <!-- Device specific settings -->
-    <string name="device_settings_app_name">الإعدادات المتقدمة</string>
+    <string name="device_settings_app_name">Dirac</string>
     <!-- Dirac settings -->
     <string name="dirac_title">محسن الصوت Dirac</string>
     <string name="dirac_summary">تحسين جودة الصوت</string>

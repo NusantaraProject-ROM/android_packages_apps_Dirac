@@ -21,7 +21,7 @@
     <!-- Label for feature switch [CHAR LIMIT=30] -->
     <string name="switch_bar_off">Kapalı</string>
     <!-- Device specific settings -->
-    <string name="device_settings_app_name">Gelişmiş ayarlar</string>
+    <string name="device_settings_app_name">Dirac</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Dirac ses yükseltici</string>
     <string name="dirac_summary">Ses kalitesini optimize eder</string>
